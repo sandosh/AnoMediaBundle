@@ -13,7 +13,7 @@
     ],
     "require": {
         "symfony/framework-bundle": ">=2.1",
-        "knplabs/gaufrette": "0.1.*"
+        "knplabs/gaufrette": "0.2.*@dev"
     },
     "suggest": {
         "imagine/Imagine": "0.2.*"
